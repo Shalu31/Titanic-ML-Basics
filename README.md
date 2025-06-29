@@ -1,4 +1,4 @@
-# Titanic-ML-Basics
+# Learn ML using various dataset(Titanic,diabetes,tips)
 "Basic machine learning analysis on the Titanic dataset including EDA, handling missing data, and data visualization."
 ## 📌 Key Concepts Covered:
 - Descriptive statistics
